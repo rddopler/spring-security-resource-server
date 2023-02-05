@@ -1,2 +1,2 @@
-# zeus-resource
+# spring-security-resource-server
 Spring Security Resource Server
